@@ -95,7 +95,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
         }
     }
 
+</script>
 
 <iframe height="430" width="350" src="https://bot.dialogflow.com/aprendizaje_maquina_alvarezdavid"></iframe>
-
-</script>
